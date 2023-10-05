@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 1a975283b51049f4fbf4137ab414b68b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb097b8b5f3111a428b8ce696b3f6053
+      internalID: -1393484374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_1'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 152
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b6d8627668758419d2d76d37ae4c93
+      internalID: -974424978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_2'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa63e082998b444c9c11d5b050ff39c
+      internalID: -334931028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_3'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336ecc59e95fa34f854d8525d5c1303
+      internalID: 900179649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_4'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797787fc3f597fd43993a4bf192f7cf9
+      internalID: -1272110466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_5'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db23f6da0826644896b49169a653ce
+      internalID: -1876261327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_6'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e014c72fc959cd469c2faee5c35db84
+      internalID: -711824827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_7'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1970981a9cd377488a968d4929e4f61
+      internalID: 1587170647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_8'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffa1c7c36784224b948722218e8a20d
+      internalID: -1586398763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d9a0b634e4e749b295e5f818dfe13
+      internalID: -1337235308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c757eeb798c00439d2fea0f7eb975b
+      internalID: 2037106381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_11'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f6dece44763a4e8a091e16b1c2557
+      internalID: 1906242770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_12'
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 152
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce72b183e6d584493a8ea5e9c9ddf0
+      internalID: -1041408726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_13'
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ca118b2b2d6d428c68226bc79a7e1
+      internalID: 1062420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_15'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 304
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f46b1be3b15a64ca5dc74a8fd0b36f
+      internalID: -27079707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_16'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2131e57b1090e4885ff68d31bc030e
+      internalID: 979002762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_14'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ebacc08d45f1a4e8ea5c1c09d41ce2
+      internalID: 2077972657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_17'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1c1a2a91138646aa61283bc59db04
+      internalID: -1050704140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_18'
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 304
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e242175cf8148b42b25bec833d4b579
+      internalID: -1140550529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_19'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b27afaebf4aa42a1ba828fa55643f
+      internalID: 523473037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_20'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 272
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ad40a8dbc6fb44b1427e118cbf612
+      internalID: -1598188952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_21'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45b20d07583db498cdc7f852eff49c
+      internalID: -1228620077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_22'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c0d47aa73fac47b49a7ec00c8f3af
+      internalID: 1752606926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_23'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a913e02834cf0fd4b99ffb868b976034
+      internalID: -540520650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_24'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888a6be76908f64da1c0352c0f42288
+      internalID: 1217415058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_25'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00420b3571d6f4db9b4647f3e55d88
+      internalID: 1040525318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_26'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d0a0e331f53c4d9ca83e65def0acf
+      internalID: -138972546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_27'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94102eb316d85443ad15061dd5ef09a
+      internalID: -1581080499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_28'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a39225b2c26549b27741c0ae8714a
+      internalID: 219602937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_29'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd24af5baa1a8f4193bbd3b51edb72b
+      internalID: 1780209523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_30'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597010e69621d88428dff4c91c457a50
+      internalID: 1021111571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_31'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc6af0eeb266b4fa78aca64d973117
+      internalID: -1020334943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_32'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d8d2fccd12974f8440c07150d21b6
+      internalID: 400199104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_33'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 248
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22471e7448cca384ea6c4b3509a54873
+      internalID: -2125523336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_34'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd27cff64beee840903c6c9788813c9
+      internalID: -113066592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_35'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6f13a65f2b1345886f78b42b52ef8
+      internalID: 732311674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_36'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb423ac30d6974eb684840de23845a
+      internalID: 1057364598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_37'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b81e479a7f40b408d6a4cd8febd327
+      internalID: -1748385519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_38'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839a379f1e350644bf1f3a07d1d3c08
+      internalID: 1171447875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_39'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abeda09487b720428094e3892b51c52
+      internalID: -862523782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_40'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be95b475c4dc0d409ec33f75f9d7291
+      internalID: -140137896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_41'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3d361463d86d46a1524a5cf7f83d7
+      internalID: -408819074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_42'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e482824749f1e240b1dbbe683c6a01a
+      internalID: 313772276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_43'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d85ca6a6a812542ac9aaa4fd0773f2
+      internalID: 601947542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_44'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e685b130237d4db0c7592a732d600
+      internalID: -595327720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_45'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f494759724d44b9759d9f73417b0d
+      internalID: -1640063668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_46'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78da73e8bffc8a45b0919824d659c48
+      internalID: -252378010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_47'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50173d8b98d1d74abd0ef3e906c26fd
+      internalID: -1695724919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_48'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01adc30a38dcc754580a06811c043230
+      internalID: -1354142645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_49'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246ad577eaf2794dad568a7455f18ef
+      internalID: 2092868335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_51'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17432b16f3ba02d49a066c6ff88dcc2c
+      internalID: -1486386152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_52'
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 35
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea2aa1db5fd514090d923529742f42
+      internalID: 1700103445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_50'
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 67
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1409d2b1b1f0b44b1a3809e46597e3
+      internalID: 929325613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_53'
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744065220ed9464ebfb98099d73e19e
+      internalID: -220283525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_54'
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a553170dc9fca548ad0969ca1d0b12a
+      internalID: -1674861410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_55'
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 24
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c242e6fad92b5d24ea90c4a2baa7ab9e
+      internalID: -1934945268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_56'
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b8d96b68c74a40b414aa09d162a7a
+      internalID: -1966321627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_57'
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 24
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad3f66adf6bda4b80285df3f8a02cc
+      internalID: 1621349575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_58'
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 24
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be452c7ed855dec41b9da3af5b8081d9
+      internalID: -1971281798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_59'
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 24
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16654cb2e66a9694da90a28c81dd9ab5
+      internalID: -730572902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_60'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761a1a522b8d7e45830a8fbb549a692
+      internalID: 784599526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_61'
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0507f2767caa45900446ee7262d58
+      internalID: -647061293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_62'
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1181f0a31eb1f949a51f99955f4cd0d
+      internalID: 369380122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[v1.2] tranquil_tunnels_darker_63'
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6948e6b10bde9f489a2dcedd207e68f
+      internalID: 1030358334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[v1.2] tranquil_tunnels_darker_0': -1393484374
+      '[v1.2] tranquil_tunnels_darker_1': -974424978
+      '[v1.2] tranquil_tunnels_darker_10': 2037106381
+      '[v1.2] tranquil_tunnels_darker_11': 1906242770
+      '[v1.2] tranquil_tunnels_darker_12': -1041408726
+      '[v1.2] tranquil_tunnels_darker_13': 1062420502
+      '[v1.2] tranquil_tunnels_darker_14': 2077972657
+      '[v1.2] tranquil_tunnels_darker_15': -27079707
+      '[v1.2] tranquil_tunnels_darker_16': 979002762
+      '[v1.2] tranquil_tunnels_darker_17': -1050704140
+      '[v1.2] tranquil_tunnels_darker_18': -1140550529
+      '[v1.2] tranquil_tunnels_darker_19': 523473037
+      '[v1.2] tranquil_tunnels_darker_2': -334931028
+      '[v1.2] tranquil_tunnels_darker_20': -1598188952
+      '[v1.2] tranquil_tunnels_darker_21': -1228620077
+      '[v1.2] tranquil_tunnels_darker_22': 1752606926
+      '[v1.2] tranquil_tunnels_darker_23': -540520650
+      '[v1.2] tranquil_tunnels_darker_24': 1217415058
+      '[v1.2] tranquil_tunnels_darker_25': 1040525318
+      '[v1.2] tranquil_tunnels_darker_26': -138972546
+      '[v1.2] tranquil_tunnels_darker_27': -1581080499
+      '[v1.2] tranquil_tunnels_darker_28': 219602937
+      '[v1.2] tranquil_tunnels_darker_29': 1780209523
+      '[v1.2] tranquil_tunnels_darker_3': 900179649
+      '[v1.2] tranquil_tunnels_darker_30': 1021111571
+      '[v1.2] tranquil_tunnels_darker_31': -1020334943
+      '[v1.2] tranquil_tunnels_darker_32': 400199104
+      '[v1.2] tranquil_tunnels_darker_33': -2125523336
+      '[v1.2] tranquil_tunnels_darker_34': -113066592
+      '[v1.2] tranquil_tunnels_darker_35': 732311674
+      '[v1.2] tranquil_tunnels_darker_36': 1057364598
+      '[v1.2] tranquil_tunnels_darker_37': -1748385519
+      '[v1.2] tranquil_tunnels_darker_38': 1171447875
+      '[v1.2] tranquil_tunnels_darker_39': -862523782
+      '[v1.2] tranquil_tunnels_darker_4': -1272110466
+      '[v1.2] tranquil_tunnels_darker_40': -140137896
+      '[v1.2] tranquil_tunnels_darker_41': -408819074
+      '[v1.2] tranquil_tunnels_darker_42': 313772276
+      '[v1.2] tranquil_tunnels_darker_43': 601947542
+      '[v1.2] tranquil_tunnels_darker_44': -595327720
+      '[v1.2] tranquil_tunnels_darker_45': -1640063668
+      '[v1.2] tranquil_tunnels_darker_46': -252378010
+      '[v1.2] tranquil_tunnels_darker_47': -1695724919
+      '[v1.2] tranquil_tunnels_darker_48': -1354142645
+      '[v1.2] tranquil_tunnels_darker_49': 2092868335
+      '[v1.2] tranquil_tunnels_darker_5': -1876261327
+      '[v1.2] tranquil_tunnels_darker_50': 929325613
+      '[v1.2] tranquil_tunnels_darker_51': -1486386152
+      '[v1.2] tranquil_tunnels_darker_52': 1700103445
+      '[v1.2] tranquil_tunnels_darker_53': -220283525
+      '[v1.2] tranquil_tunnels_darker_54': -1674861410
+      '[v1.2] tranquil_tunnels_darker_55': -1934945268
+      '[v1.2] tranquil_tunnels_darker_56': -1966321627
+      '[v1.2] tranquil_tunnels_darker_57': 1621349575
+      '[v1.2] tranquil_tunnels_darker_58': -1971281798
+      '[v1.2] tranquil_tunnels_darker_59': -730572902
+      '[v1.2] tranquil_tunnels_darker_6': -711824827
+      '[v1.2] tranquil_tunnels_darker_60': 784599526
+      '[v1.2] tranquil_tunnels_darker_61': -647061293
+      '[v1.2] tranquil_tunnels_darker_62': 369380122
+      '[v1.2] tranquil_tunnels_darker_63': 1030358334
+      '[v1.2] tranquil_tunnels_darker_7': 1587170647
+      '[v1.2] tranquil_tunnels_darker_8': -1586398763
+      '[v1.2] tranquil_tunnels_darker_9': -1337235308
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

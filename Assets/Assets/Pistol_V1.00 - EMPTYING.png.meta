@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: e40a9945367714f4bae4f159655dfb80
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 20
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c1d1d748e0824280c46f8902a6919
+      internalID: 146363231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695f9858ad944941abbbe8115c46b55
+      internalID: -1895333113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 20
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d565f030278694aba85ea23ae9fde1
+      internalID: -1394180885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c3c3c0119e954ca4ba7ea2aa5965f
+      internalID: 1522527700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 20
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17850aa4d1ce2d0478641e9e86e1cbfe
+      internalID: 234345491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8d330702991043a4afde9c24c10b6
+      internalID: 1796544713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 17
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3f6a1097b8af4994aa6a6519cd6ad
+      internalID: -955903475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb144d1f17cdc446b7103046f57c3da
+      internalID: -1927168198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 12
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa6b60a9d5eef4091d5c320113d1c4
+      internalID: 1073103861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 10
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac88759025b3c42b95dea993625be4
+      internalID: -1307626010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 11
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb4b91641376d4eab1271a61f6aaa5
+      internalID: -1817188252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e8c1bb56ee3341bcbf9f94f02ef46
+      internalID: -1814967187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_12
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 6
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac8055ccf1f274f9c8e7c26288e5f4
+      internalID: -2057506849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_13
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac515635a00899409520a517d13bb50
+      internalID: -1299697974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_14
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce2e6daa3cfce479c84d6f0622c597
+      internalID: 1587835265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a496e0e0864524cbafa385a2ee3bde
+      internalID: -1264762803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_16
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134c4a4687ea474fad9e230d5ed0023
+      internalID: 1692488297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279bfb1580c4c94a88ab3ffbe94cec2
+      internalID: -406996150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_18
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 20
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe323638a6c4a4790f9541b4035853
+      internalID: -221817668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_19
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 20
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136cc984bfb90347bc2f3e74cfa2c04
+      internalID: 1641085675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_20
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 20
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b2869a7bf37c488ec01a05d35a36c
+      internalID: -1473277903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_21
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 20
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1469048c7a20bcb46b7595a35f90c3a3
+      internalID: -1526917583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_22
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 20
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3325ca3a001ad5a4ba66ab4e6dabbed6
+      internalID: -1581816874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 11
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fbfa57e60ed6a4a9560bbd5fac591f
+      internalID: -622040457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_24
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101ea9b486f2bf45a07fbdddfb8a516
+      internalID: 785133237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_25
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 6
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36907d46bf4b15445b252d13f61017fc
+      internalID: 658367306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_26
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892118ca87e2b641a94dbeea84da3e4
+      internalID: -1327845063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_27
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d72edfe5d05e4db7871773cd4e787
+      internalID: -1772619989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_V1.00 - EMPTYING_28
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4050878a16fc4f8ce95a80f486529
+      internalID: -1831483715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pistol_V1.00 - EMPTYING_0: 146363231
+      Pistol_V1.00 - EMPTYING_1: -1895333113
+      Pistol_V1.00 - EMPTYING_10: -1817188252
+      Pistol_V1.00 - EMPTYING_11: -1814967187
+      Pistol_V1.00 - EMPTYING_12: -2057506849
+      Pistol_V1.00 - EMPTYING_13: -1299697974
+      Pistol_V1.00 - EMPTYING_14: 1587835265
+      Pistol_V1.00 - EMPTYING_15: -1264762803
+      Pistol_V1.00 - EMPTYING_16: 1692488297
+      Pistol_V1.00 - EMPTYING_17: -406996150
+      Pistol_V1.00 - EMPTYING_18: -221817668
+      Pistol_V1.00 - EMPTYING_19: 1641085675
+      Pistol_V1.00 - EMPTYING_2: -1394180885
+      Pistol_V1.00 - EMPTYING_20: -1473277903
+      Pistol_V1.00 - EMPTYING_21: -1526917583
+      Pistol_V1.00 - EMPTYING_22: -1581816874
+      Pistol_V1.00 - EMPTYING_23: -622040457
+      Pistol_V1.00 - EMPTYING_24: 785133237
+      Pistol_V1.00 - EMPTYING_25: 658367306
+      Pistol_V1.00 - EMPTYING_26: -1327845063
+      Pistol_V1.00 - EMPTYING_27: -1772619989
+      Pistol_V1.00 - EMPTYING_28: -1831483715
+      Pistol_V1.00 - EMPTYING_3: 1522527700
+      Pistol_V1.00 - EMPTYING_4: 234345491
+      Pistol_V1.00 - EMPTYING_5: 1796544713
+      Pistol_V1.00 - EMPTYING_6: -955903475
+      Pistol_V1.00 - EMPTYING_7: -1927168198
+      Pistol_V1.00 - EMPTYING_8: 1073103861
+      Pistol_V1.00 - EMPTYING_9: -1307626010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
