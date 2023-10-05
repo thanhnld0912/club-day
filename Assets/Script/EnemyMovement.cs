@@ -5,51 +5,49 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    //private Animator animator;
+    private Animator animator;
 
     string currentAni;
-    const string IDLE = "Idle";
-    const string DIE = "Die";
+    const string IDLE = "EnemyIdle";
+    const string DIE = "SkeletonDead";
     [SerializeField] private int health = 1, currentHealth = 1;
-    [SerializeField] private GameObject gameobject;
     void Start()
     {
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
         ChangeAnimationState(IDLE);
     }
-    public void takeDamage(int damage, Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Bullet")
-        {
-            health -= damage;
-        }
+    //public void takeDamage(int damage, Collision2D collision)
+    //{
+    //    if (collision.gameObject.tag == "Bullet")
+    //    {
+    //        health -= damage;
+    //    }
         
-        if (health <= 0)
-        {
-            Destroy(gameobject);
-        }
-    }
+    //    if (health <= 0)
+    //    {
+    //        Destroy(this.gameObject);
+    //    }
+    //}
     private void ChangeAnimationState(string newAni)
     {
         if (newAni == currentAni)
         {
             return;
         }
-        //animator.Play(newAni);
+        animator.Play(newAni);
         currentAni = newAni;
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D col)
     {
-        if(collision.gameObject.tag == "Bullet")
+        if (col.gameObject.tag == "Bullet")
         {
-            Destroy(collision.gameObject);
             StartCoroutine(Dead());
         }
     }
     IEnumerator Dead()
     {
         ChangeAnimationState(DIE);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(2f);
         Destroy(gameObject);
     }
 }

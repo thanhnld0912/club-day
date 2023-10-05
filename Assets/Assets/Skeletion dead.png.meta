@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 64cbb0b34c7838942b0896ecfa7124fa
+guid: c72499c0874fecd4b984e5d1b1f239f6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 96
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,12 +117,222 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: '[FULL]PistolV1.01_0'
+      name: Skeletion dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973525f11e148b458e2ce910b9cce15
+      internalID: -1514365634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50392062e032bf74e83e092442c75f3e
+      internalID: 934142861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04301788e64af934fa528cc103eb1af6
+      internalID: -1657084907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b91f8e511710408d6f216ac2703cb
+      internalID: 1561361752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b22c3d10826642b92a576f7d90e93
+      internalID: 750711163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aef53d1ff1211418aa5343eec43a9a
+      internalID: -439064434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b72e336e4eb94f98a99c160bc0f08
+      internalID: -353600229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70242cfb5639b724ba0d019b272c74c4
+      internalID: -1689795749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c52ffd3042257449349c10d7ede4e6
+      internalID: -1646511497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87a564710a8874ca9aea77e2957649
+      internalID: 329943321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeletion dead_10
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
+        width: 33
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -131,19 +341,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f64eb9ed3aff13e479ea77757d401ff7
-      internalID: -22893877
+      spriteID: 326c488676952674db73c0e2ac81aeb8
+      internalID: -36881101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '[FULL]PistolV1.01_1'
+      name: Skeletion dead_11
       rect:
         serializedVersion: 2
-        x: 64
+        x: 33
         y: 0
-        width: 64
+        width: 33
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -152,19 +362,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d13866cf873d38c46bc6999b863a2da8
-      internalID: -14259667
+      spriteID: fd0c428a921f5744fa98c60a221048af
+      internalID: 1099696091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '[FULL]PistolV1.01_2'
+      name: Skeletion dead_12
       rect:
         serializedVersion: 2
-        x: 128
+        x: 66
         y: 0
-        width: 64
+        width: 33
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -173,19 +383,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a71288ca41e08664e989e025abf413a6
-      internalID: -1629855096
+      spriteID: 32bc4896ee3e2164bba56051c54ea9f1
+      internalID: -1722759286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '[FULL]PistolV1.01_3'
+      name: Skeletion dead_13
       rect:
         serializedVersion: 2
-        x: 192
+        x: 99
         y: 0
-        width: 64
+        width: 33
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -194,19 +404,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d038fb5202c130941a4a48d17ea6d15d
-      internalID: -351484019
+      spriteID: 1ebf7a52cb8d4c14b8f2fb0e926c3bff
+      internalID: -522078409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '[FULL]PistolV1.01_4'
+      name: Skeletion dead_14
       rect:
         serializedVersion: 2
-        x: 256
+        x: 132
         y: 0
-        width: 64
+        width: 33
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -215,155 +425,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5affbdc9a3833bf4394f8a919530b86f
-      internalID: 215798165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_5'
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07fc10002cdad68418ba083a08c806dd
-      internalID: -1256870051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_6'
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81b49a41e0bfe524497a651cd7080f6c
-      internalID: -231208871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_7'
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 889725a361ccd4a4ea21f574e7351195
-      internalID: -594233230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_8'
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 344e2d3764e072b42996ebd1622dab37
-      internalID: 1886819737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_9'
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce54f205a38191848b33fff0efff8be9
-      internalID: 919564944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_10'
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f1773ddaf17bc049899274a4dfdc1e1
-      internalID: -1134225283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[FULL]PistolV1.01_11'
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 0
-        width: 64
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f89765b27accacd4d9319fef282b045b
-      internalID: -1180400086
+      spriteID: 738da647acb637e43adeae2ca2a8c49d
+      internalID: -682776836
       vertices: []
       indices: 
       edges: []
@@ -379,18 +442,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      '[FULL]PistolV1.01_0': -22893877
-      '[FULL]PistolV1.01_1': -14259667
-      '[FULL]PistolV1.01_10': -1134225283
-      '[FULL]PistolV1.01_11': -1180400086
-      '[FULL]PistolV1.01_2': -1629855096
-      '[FULL]PistolV1.01_3': -351484019
-      '[FULL]PistolV1.01_4': 215798165
-      '[FULL]PistolV1.01_5': -1256870051
-      '[FULL]PistolV1.01_6': -231208871
-      '[FULL]PistolV1.01_7': -594233230
-      '[FULL]PistolV1.01_8': 1886819737
-      '[FULL]PistolV1.01_9': 919564944
+      Skeletion dead_0: -1514365634
+      Skeletion dead_1: 934142861
+      Skeletion dead_10: -36881101
+      Skeletion dead_11: 1099696091
+      Skeletion dead_12: -1722759286
+      Skeletion dead_13: -522078409
+      Skeletion dead_14: -682776836
+      Skeletion dead_2: -1657084907
+      Skeletion dead_3: 1561361752
+      Skeletion dead_4: 750711163
+      Skeletion dead_5: -439064434
+      Skeletion dead_6: -353600229
+      Skeletion dead_7: -1689795749
+      Skeletion dead_8: -1646511497
+      Skeletion dead_9: 329943321
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

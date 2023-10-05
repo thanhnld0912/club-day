@@ -21,15 +21,8 @@ public class BulletBounce : MonoBehaviour
     {
         lastVelocity = rb.velocity;
     }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Mob")
-        {
-            hit = true;
-            //tao ham cho con mob die
-            //collision.gameObject.Die();
-        }
         var speed = lastVelocity.magnitude;
         var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
         rb.velocity = direction * Mathf.Max(speed,0f);
