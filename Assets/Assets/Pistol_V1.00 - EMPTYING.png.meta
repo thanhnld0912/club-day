@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,10 +120,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 20
-        width: 28
-        height: 18
+        x: 0
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,10 +141,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_1
       rect:
         serializedVersion: 2
-        x: 98
-        y: 20
-        width: 28
-        height: 18
+        x: 80
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_2
       rect:
         serializedVersion: 2
-        x: 178
-        y: 20
-        width: 27
-        height: 18
+        x: 160
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +183,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_3
       rect:
         serializedVersion: 2
-        x: 256
-        y: 20
-        width: 28
-        height: 18
+        x: 240
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_4
       rect:
         serializedVersion: 2
-        x: 335
-        y: 20
-        width: 29
-        height: 18
+        x: 320
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_5
       rect:
         serializedVersion: 2
-        x: 415
-        y: 18
-        width: 29
-        height: 19
+        x: 400
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +246,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_6
       rect:
         serializedVersion: 2
-        x: 495
-        y: 17
-        width: 29
-        height: 21
+        x: 480
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_7
       rect:
         serializedVersion: 2
-        x: 575
-        y: 15
-        width: 29
-        height: 24
+        x: 560
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +288,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_8
       rect:
         serializedVersion: 2
-        x: 655
-        y: 12
-        width: 29
-        height: 26
+        x: 640
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +309,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_9
       rect:
         serializedVersion: 2
-        x: 735
-        y: 10
-        width: 29
-        height: 28
+        x: 720
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_10
       rect:
         serializedVersion: 2
-        x: 811
-        y: 11
-        width: 33
-        height: 27
+        x: 800
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +351,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_11
       rect:
         serializedVersion: 2
-        x: 892
-        y: 7
-        width: 32
-        height: 31
+        x: 880
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_12
       rect:
         serializedVersion: 2
-        x: 969
-        y: 6
-        width: 35
-        height: 32
+        x: 960
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_13
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 1
-        width: 35
-        height: 37
+        x: 1040
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_14
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 1
-        width: 38
-        height: 37
+        x: 1120
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_15
       rect:
         serializedVersion: 2
-        x: 1205
+        x: 1200
         y: 0
-        width: 39
-        height: 38
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_16
       rect:
         serializedVersion: 2
-        x: 1287
+        x: 1280
         y: 0
-        width: 37
-        height: 38
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_17
       rect:
         serializedVersion: 2
-        x: 1366
+        x: 1360
         y: 0
-        width: 38
-        height: 38
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_18
       rect:
         serializedVersion: 2
-        x: 1456
-        y: 20
-        width: 28
-        height: 18
+        x: 1440
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +519,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_19
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 20
-        width: 27
-        height: 18
+        x: 1520
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +540,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_20
       rect:
         serializedVersion: 2
-        x: 1619
-        y: 20
-        width: 27
-        height: 18
+        x: 1600
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_21
       rect:
         serializedVersion: 2
-        x: 1699
-        y: 20
-        width: 27
-        height: 18
+        x: 1680
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: Pistol_V1.00 - EMPTYING_22
       rect:
         serializedVersion: 2
-        x: 1779
-        y: 20
-        width: 29
-        height: 18
+        x: 1760
+        y: 0
+        width: 80
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,132 +595,6 @@ TextureImporter:
       bones: []
       spriteID: 3325ca3a001ad5a4ba66ab4e6dabbed6
       internalID: -1581816874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_23
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 11
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63fbfa57e60ed6a4a9560bbd5fac591f
-      internalID: -622040457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_24
-      rect:
-        serializedVersion: 2
-        x: 892
-        y: 7
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9101ea9b486f2bf45a07fbdddfb8a516
-      internalID: 785133237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_25
-      rect:
-        serializedVersion: 2
-        x: 969
-        y: 6
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36907d46bf4b15445b252d13f61017fc
-      internalID: 658367306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_26
-      rect:
-        serializedVersion: 2
-        x: 1049
-        y: 1
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c892118ca87e2b641a94dbeea84da3e4
-      internalID: -1327845063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_27
-      rect:
-        serializedVersion: 2
-        x: 1126
-        y: 1
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb1d72edfe5d05e4db7871773cd4e787
-      internalID: -1772619989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pistol_V1.00 - EMPTYING_28
-      rect:
-        serializedVersion: 2
-        x: 1205
-        y: 0
-        width: 8
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cf4050878a16fc4f8ce95a80f486529
-      internalID: -1831483715
       vertices: []
       indices: 
       edges: []
@@ -752,12 +626,6 @@ TextureImporter:
       Pistol_V1.00 - EMPTYING_20: -1473277903
       Pistol_V1.00 - EMPTYING_21: -1526917583
       Pistol_V1.00 - EMPTYING_22: -1581816874
-      Pistol_V1.00 - EMPTYING_23: -622040457
-      Pistol_V1.00 - EMPTYING_24: 785133237
-      Pistol_V1.00 - EMPTYING_25: 658367306
-      Pistol_V1.00 - EMPTYING_26: -1327845063
-      Pistol_V1.00 - EMPTYING_27: -1772619989
-      Pistol_V1.00 - EMPTYING_28: -1831483715
       Pistol_V1.00 - EMPTYING_3: 1522527700
       Pistol_V1.00 - EMPTYING_4: 234345491
       Pistol_V1.00 - EMPTYING_5: 1796544713
