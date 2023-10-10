@@ -47,7 +47,7 @@ public class EnemyMovement : MonoBehaviour
     IEnumerator Dead()
     {
         ChangeAnimationState(DIE);
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1f);
         Destroy(gameObject);
     }
 }

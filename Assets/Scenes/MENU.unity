@@ -831,6 +831,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &553194125
 GameObject:
   m_ObjectHideFlags: 0
@@ -1473,9 +1474,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1820019549}
+      - m_Target: {fileID: 1820019550}
         m_TargetAssemblyTypeName: MAINMENU, Assembly-CSharp
-        m_MethodName: quitGame
+        m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1628,6 +1629,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1582347858
 GameObject:
   m_ObjectHideFlags: 0
@@ -1640,6 +1642,7 @@ GameObject:
   - component: {fileID: 1582347862}
   - component: {fileID: 1582347861}
   - component: {fileID: 1582347860}
+  - component: {fileID: 1582347863}
   m_Layer: 5
   m_Name: Play
   m_TagString: Untagged
@@ -1713,7 +1716,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1820019549}
+      - m_Target: {fileID: 1820019550}
         m_TargetAssemblyTypeName: MAINMENU, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -1763,6 +1766,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1582347858}
   m_CullTransparentMesh: 1
+--- !u!50 &1582347863
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582347858}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1629536990
 GameObject:
   m_ObjectHideFlags: 0
@@ -1962,6 +1986,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!320 &1767802918
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -2170,6 +2195,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1820019548}
   - component: {fileID: 1820019547}
+  - component: {fileID: 1820019550}
   - component: {fileID: 1820019546}
   - component: {fileID: 1820019549}
   m_Layer: 0
@@ -2257,6 +2283,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 552616d22ceebb0419e9d1a1521c538a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1820019550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820019545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 996f6a7ecbc9c0c45bd36125ff037cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startButtonRigidbody: {fileID: 1582347863}
+  initialForce: 10
+  delayBeforeStart: 2
 --- !u!1 &1995316795
 GameObject:
   m_ObjectHideFlags: 0
@@ -2362,3 +2403,4 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
