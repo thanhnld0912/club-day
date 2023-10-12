@@ -10,8 +10,9 @@ public class WeaponFire : MonoBehaviour
     //[SerializeField] private Animator anim;
 
     public float bulletSpeed = 2000.0f;
+    public short bulletCount = 6;
     private Vector2 bulletDirection;
-
+       
 
     private void Start()
     {
@@ -19,7 +20,7 @@ public class WeaponFire : MonoBehaviour
     }
     private void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        if(Input.GetMouseButtonDown(0) && bulletCount>0)
         {
             GameObject inst = Instantiate(bullet, firePosition.position, Quaternion.identity);
 
@@ -33,6 +34,8 @@ public class WeaponFire : MonoBehaviour
             Rigidbody2D bulletRigidbody = inst.GetComponent<Rigidbody2D>();
             bulletRigidbody.AddForce(bulletDirection.normalized * bulletSpeed);
             //anim.SetTrigger("shoot");
+
+            bulletCount--;
         }
     }
 }
