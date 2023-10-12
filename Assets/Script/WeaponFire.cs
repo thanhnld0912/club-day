@@ -32,7 +32,7 @@ public class WeaponFire : MonoBehaviour
 
             // Apply force to the bullet in the calculated direction
             Rigidbody2D bulletRigidbody = inst.GetComponent<Rigidbody2D>();
-            bulletRigidbody.AddForce(bulletDirection.normalized * bulletSpeed);
+            bulletRigidbody.AddForce(bulletDirection.normalized * bulletSpeed*Time.fixedDeltaTime);
             //anim.SetTrigger("shoot");
 
             bulletCount--;

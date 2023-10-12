@@ -8,7 +8,6 @@ public class BulletBounce : MonoBehaviour
     private Rigidbody2D rb;
     Vector3 lastVelocity;
     public int  bounceCount = 5;
-    public float bulletSpeed = 2000.0f;
     private bool hit;
 
     private void Start()
