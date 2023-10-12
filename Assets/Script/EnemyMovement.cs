@@ -10,24 +10,11 @@ public class EnemyMovement : MonoBehaviour
     string currentAni;
     const string IDLE = "EnemyIdle";
     const string DIE = "SkeletonDead";
-    [SerializeField] private int health = 1, currentHealth = 1;
     void Start()
     {
         animator = GetComponent<Animator>();
         ChangeAnimationState(IDLE);
     }
-    //public void takeDamage(int damage, Collision2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Bullet")
-    //    {
-    //        health -= damage;
-    //    }
-        
-    //    if (health <= 0)
-    //    {
-    //        Destroy(this.gameObject);
-    //    }
-    //}
     private void ChangeAnimationState(string newAni)
     {
         if (newAni == currentAni)
@@ -47,7 +34,7 @@ public class EnemyMovement : MonoBehaviour
     IEnumerator Dead()
     {
         ChangeAnimationState(DIE);
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1f);
         Destroy(gameObject);
     }
 }

@@ -4,16 +4,34 @@ using UnityEngine;
 
 public class Spin : MonoBehaviour
 {
-    private float degreesPerSecond = 60;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField]private float degreesPerSecond = 60;
+    private bool reverseRotation = false;
+    [SerializeField] private float spinTime = 0f;
+    [SerializeField] private float reverseDelay = 2f;
 
-    // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(0, 0, degreesPerSecond) * Time.deltaTime);
+        if (!reverseRotation)
+        {
+            transform.Rotate(new Vector3(0, 0, degreesPerSecond) * Time.deltaTime);
+            spinTime += Time.deltaTime;
+
+            if (spinTime >= reverseDelay)
+            {
+                reverseRotation = true;
+                spinTime = 0f;
+            }
+        }
+        else
+        {
+            transform.Rotate(new Vector3(0, 0, -degreesPerSecond) * Time.deltaTime);
+            spinTime += Time.deltaTime;
+
+            if (spinTime >= reverseDelay)
+            {
+                reverseRotation = false;
+                spinTime = 0f;
+            }
+        }
     }
 }

@@ -8,8 +8,10 @@ public class MAINMENU : MonoBehaviour
     public Rigidbody2D startButtonRigidbody;
     public float initialForce = 10.0f; // Lực ban đầu
     public float delayBeforeStart = 2.0f; // Thời gian chờ trước khi bắt đầu trò chơi
-
     private bool gameStarted = false;
+
+    public AudioSource audioSource; // Thêm một AudioSource
+    public AudioClip startClip; // Thêm AudioClip cho âm thanh bắt đầu
 
     public void PlayGame()
     {
@@ -29,6 +31,12 @@ public class MAINMENU : MonoBehaviour
         // Áp dụng lực ban đầu cho nút bắt đầu
         startButtonRigidbody.velocity = Vector2.zero;
         startButtonRigidbody.AddForce(Vector2.right * initialForce, ForceMode2D.Impulse);
+
+        // Phát âm thanh khi bắt đầu
+        if (audioSource != null && startClip != null)
+        {
+            audioSource.PlayOneShot(startClip);
+        }
 
         // Chờ 2 giây trước khi bắt đầu trò chơi
         yield return new WaitForSeconds(delayBeforeStart);
